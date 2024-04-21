@@ -7,7 +7,7 @@ Both front-end and back-end automation testing is something I do. I pay close at
 
 
 ## 🌐 Socials:
- <a href="https://www.linkedin.com/in/gökselçelik/" target="_blank">
+ <a href="https://www.linkedin.com/in/göksel-çelik/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
   <a href = "mailto:gokselceliktestengineer@gmail.com">
