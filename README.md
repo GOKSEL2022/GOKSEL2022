@@ -1,6 +1,7 @@
 # 💫 About Me:
 Both front-end and back-end automation testing is something I do. I pay close attention to the little things so that test cases are more useful and efficient. In addition to using Java as the Front-End programming language, I also used automation testing tools like Selenium WebDriver, JUnit, TestNG, and Cucumber. I used tools like API, SQL, and JDBC for the back-end. I value communication with others.<br>Because of this, I place a lot of value on collaboration that is harmonious and organized. In this situation, I can state that I value education and teaching as a profession. I share what I know with the team and quickly understand what I don't know.   
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<img src="https://komarev.com/ghpvc/?username=GOKSEL2022&&style=plastics&&color=yellow" align="left"/> </p>
 
 
 
