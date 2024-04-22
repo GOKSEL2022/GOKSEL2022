@@ -36,3 +36,4 @@ Both front-end and back-end automation testing is something I do. I pay close at
 [![](https://visitcount.itsvg.in/api?id=GOKSEL2022&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/GOKSEL2022)
