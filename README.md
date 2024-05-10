@@ -63,5 +63,6 @@ jobs:
 -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://komarev.com/ghpvc/?username=GOKSEL2022&&style=plastics&&color=yellow" align="left"/> </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/GOKSEL2022)
